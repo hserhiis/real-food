@@ -1,0 +1,51 @@
+@import "../variables";
+
+.header {
+  border-bottom: 1px solid $gray-line;
+  padding: 40px 0;
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    @media (max-width: 450px) {
+      flex-direction: column;
+      gap: 30px;
+    }
+  }
+
+  &__logo {
+    img {
+      width: 43px;
+      height: 43px;
+      margin-right: 10px;
+
+      @media (max-width: 650px) {
+        width: 30px;
+        height: 30px;
+      }
+    }
+
+    h1 {
+      color: #04c100;
+      text-align: center;
+      font-family: "Nunito";
+      font-size: 48px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      position: relative;
+      display: inline-block;
+
+      @media (max-width: 650px) {
+        font-size: 36px;
+      }
+    }
+
+    p {
+      color: #7b7b7b;
+      text-align: right;
+    }
+  }
+}

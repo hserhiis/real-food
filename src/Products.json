@@ -1,0 +1,102 @@
+[
+  {
+    "id": 0,
+    "title": "Chia Seeds",
+    "price": 2.1,
+    "category": 2,
+    "rating": 5,
+    "imagePath": "ChiaSeeds.png",
+    "types": [0, 1],
+    "sizes": [40, 60, 80]
+  },
+  {
+    "id": 1,
+    "title": "Greens",
+    "price": 3.5,
+    "category": 2,
+    "rating": 4,
+    "imagePath": "Greens.png",
+    "types": [0, 1],
+    "sizes": [30, 50, 70]
+  },
+  {
+    "id": 2,
+    "title": "Fresh local lime",
+    "price": 1.99,
+    "category": 1,
+    "rating": 3,
+    "imagePath": "FreshLocalLime.jpg",
+    "types": [2],
+    "sizes": [20, 25, 30]
+  },
+  {
+    "id": 3,
+    "title": "Fresh spinat",
+    "price": 2.99,
+    "category": 1,
+    "rating": 5,
+    "imagePath": "FreshSpinat.jpg",
+    "types": [2],
+    "sizes": [45, 75, 90]
+  },
+  {
+    "id": 4,
+    "title": "Lantis sprout",
+    "price": 0.99,
+    "category": 2,
+    "rating": 5,
+    "imagePath": "LantisSprout.jpg",
+    "types": [0, 1],
+    "sizes": [20, 30, 40]
+  },
+  {
+    "id": 5,
+    "title": "Micro arugula",
+    "price": 4.99,
+    "category": 2,
+    "rating": 4,
+    "imagePath": "MicroArugula.png",
+    "types": [0, 1],
+    "sizes": [10, 15]
+  },
+  {
+    "id": 6,
+    "title": "Micro broccoli",
+    "price": 3.99,
+    "category": 2,
+    "rating": 5,
+    "imagePath": "MicroBroccoli.png",
+    "types": [0, 1],
+    "sizes": [45]
+  },
+  {
+    "id": 7,
+    "title": "Micro buckwheat",
+    "price": 2.45,
+    "category": 2,
+    "rating": 5,
+    "imagePath": "MicroBuckwheat.png",
+    "types": [0, 1],
+    "sizes": [75]
+  },
+  {
+    "id": 8,
+    "title": "Micro mix",
+    "price": 3.85,
+    "category": 2,
+    "rating": 3,
+    "imagePath": "MicroMix.png",
+    "types": [0, 1],
+    "sizes": [50]
+  },
+  {
+    "id": 9,
+    "title": "Wheat grass",
+    "price": 5.89,
+    "category": 2,
+    "rating": 5,
+    "imagePath": "WheatGrass.jpg",
+    "types": [0, 1],
+    "sizes": [30, 45, 60]
+  }
+]
